@@ -15,6 +15,18 @@ body {
     line-height: 1.6;
 }
 
+#about {
+    background: #111827;
+}
+
+#services {
+    background: #0f172a;
+}
+
+#contact {
+    background: #111827;
+}
+
 /* Navbar */
 
 .navbar {
@@ -122,7 +134,7 @@ body {
 }
 
 .btn:hover {
-    transform: translateY(-3px);
+    transform: translateY(-5px) scale(1.05);
     box-shadow: 0 8px 25px rgba(56,189,248,0.4);
 }
 
